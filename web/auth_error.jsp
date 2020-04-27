@@ -7,7 +7,6 @@
 
 <body>
 <h1>Authorization Issue</h1>
-<h2>You are not the authorized user.</h2>
-<h3><a href="login.jsp">Goto Login</a></h3>
+<h3><a href="login.jsp" alert="You are not the authorized user">Goto Login</a></h3>
 </body>
 </html>
